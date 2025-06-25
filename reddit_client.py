@@ -1,8 +1,8 @@
 import praw
 
 reddit = praw.Reddit(
-    client_id="jmu7SKmRBHvAoW_zg2eCng",
-    client_secret="yBn-8aaXOOSZpriSz4_wP9rpbq7TsA",
+    client_id="Your reddit client id",
+    client_secret="your reddit client secret",
     user_agent="MoodMap: AI Reddit sentiment analyzer"
 )
 
